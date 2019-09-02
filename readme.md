@@ -10,4 +10,4 @@ I hope to learn about how I can display data in an accurate and concise manner. 
 # Portfolio
 Here is where I will put all my data visualizations. But for now, a picture of my dog.
 
-![text description for visual disabilities](imageurl)
+![Hayden smiling.](images/Hayden.jpg)
