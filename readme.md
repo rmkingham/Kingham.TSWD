@@ -12,4 +12,5 @@ Here is where I will put all my data visualizations. But for now, have a picture
 
 ![Hayden smiling on the back of the couch.](images/Hayden.jpg)
 
-[# In Class Exercises Week 2](/titanic.md)
+# In Class Exercises Week 2
+[Titanic Data and Economist Article](/titanic)
