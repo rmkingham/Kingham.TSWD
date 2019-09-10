@@ -8,7 +8,9 @@
 Source: OECD Data [General Government Debt](https://data.oecd.org/gga/general-government-debt.htm)
 
 ## My Visualization 
+Each of the data visualizations on this page present the same information in a different light. Each of these graphs addresses a different audience concern. The original bar graph shown on the OECD website is good to look at a snapshot of one year because limited by showing the total debt as a percent of the GDP for only one year at a time. The Beeswarm Plot allows for multiple years of data to be shown at one time. One can look at an individual country and follow its line across to see how it changed over time, but it is hard to compare countries to one another. On the scatter plot, one can see the direction of the total debt as a percent of the GDP over the years, and the countries can be highlighted in different colors. 
 
+I chose the scatter plot because I wanted to show the directionality of the total debt as a percent of the GDP over time. Because there are too many countries to interpret all of their data on one graph, I selected three to highlight. I chose the United States, Japan, and Greece because I wanted to compare the US data to other relavent countries. All three of these countries were within 5 percentage points of each other in 1995 but quickly diverged afterwards. This graph could be useful to someone who wanted to compare the United States' total debt as a percent of the GDP trend to other countries that started in a similiar place. 
 
 ### General Government Debt
 Total, % of GDP from 1995 to 2018
