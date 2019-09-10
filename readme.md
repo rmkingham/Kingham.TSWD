@@ -14,3 +14,6 @@ Here is where I will put all my data visualizations. But for now, have a picture
 
 # In Class Exercises Week 2
 [Visualizations for Titanic Data and Economist Article](/Kingham.TSWD/Titanic)
+
+# OECD Data Visualization
+[Visualizations for General Goverment Debt Data](/Kingham.TSWD/OECDDataViz)
