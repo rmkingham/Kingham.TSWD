@@ -17,3 +17,6 @@ Here is where I will put all my data visualizations. But for now, have a picture
 
 # OECD Data Visualization
 [Visualizations for General Goverment Debt Data](/Kingham.TSWD/OECDDataViz)
+
+# Assignment 3 & 4
+[Critique by Design](/Kingham.TSWD/CritiqueByDesign)
