@@ -22,4 +22,4 @@ Here is where I will put all my data visualizations. But for now, have a picture
 [Critique by Design](/Kingham.TSWD/CritiqueByDesign)
 
 # Final Project
-[Third Baseman of the Decade (2010-2019)](/Kingham.TSWD/Final.Project.md)
+[Third Baseman of the Decade (2010-2019)](/Kingham.TSWD/Final.Project)
