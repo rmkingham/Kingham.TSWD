@@ -24,7 +24,9 @@ For the awards, I pulled from both [Baseball Almanac](https://www.baseball-alman
 Baseball Almanac: [Platinum Glove Award](https://www.baseball-almanac.com/awards/Platinum_Glove_Award.shtml); [Gold Glove Award](https://www.baseball-almanac.com/awards/aw_gg3b.shtml)
 Baseball Reference: [Wilson Defensive Player of the Year](https://www.baseball-reference.com/awards/wilson_def_player.shtml); [Hank Aaron Award](https://www.baseball-reference.com/awards/hank_rickey.shtml); [Silver Slugger Award](https://www.baseball-reference.com/awards/silver_slugger_al.shtml)
 
-I am still in the process of cleaning the data to reduce it down to only what I need, but the large Excel document with all of it can be found [here](https://rmkingham.github.io/Kingham.TSWD/MLB 3B Data.xlsx). 
+Messy version of the data [here](https://rmkingham.github.io/Kingham.TSWD/MLB 3B Data.xlsx). 
+
+Cleaned version of the data [here](https://rmkingham.github.io/Kingham.TSWD/MLB 3B Data Cleaned 2.0.xlsx).
 
 ## Sketches
 
