@@ -48,7 +48,7 @@ I also plan to use the data visualization tools that we have discussed in class.
 
 ### Wireframe
 
-The first wireframe was made using Balsamiq, and lays out how everything will be presented in the final Shorthand version. The following hand drawn wireframes are for each of the data visualizations that will be included in the wireframe. They go in order of how they are laid out in the Balsamiq wireframe. These drawings are designed to show all of the pertinent information in the data visualization so that I can get feedback from my peers. 
+The first wireframe was made using [Balsamiq](https://balsamiq.com), and lays out how everything will be presented in the final Shorthand version. The following hand drawn wireframes are for each of the data visualizations that will be included in the wireframe. They go in order of how they are laid out in the Balsamiq wireframe. These drawings are designed to show all of the pertinent information in the data visualization so that I can get feedback from my peers. 
 
 ![Wireframe of Shorthand for Third Baseman of the Decade](https://rmkingham.github.io/Kingham.TSWD/images/Final Project Wireframe.png)
 ![Wireframe for Defense Data Visualizations](https://rmkingham.github.io/Kingham.TSWD/images/WireframeDefense.jpg)
@@ -87,7 +87,6 @@ Reading this project will be different for the different personas. Each of the t
 ![Storyboard for Adam's Journey](https://rmkingham.github.io/Kingham.TSWD/images/AdamStoryboard.jpg)
 
 ### Moodboard
-
 This presentation's theme will be centered around baseball equipment and the field. There will hopefully be pictures of the players, but I need to make sure that I'm allowed to use them!
 
 Click on pictures for Source:
@@ -96,6 +95,7 @@ Click on pictures for Source:
 [![Baseball Field](https://rmkingham.github.io/Kingham.TSWD/images/Field.jpg)](http://topnotchtrainers.com/staff/team-bios.php)
 
 ### Research Protocol
+My target audience is baseball fans. I think that fans of all levels will be interested in a concise presentation of the statistics in an easily accessible manner. Too often, statisticians make things much more complicate than they need to be, so this will hopefully be easier for the casual baseball fan to understand.
 
 When doing user research, I wanted to make sure that I had a variety of perspectives. I spoke with three people: one who is a baseball fan, one who follows baseball but not that closely, and one who doesn't know anything about the intricacies of the game. In each of the conversations, I asked the following questions.
  - What do you think each visualization is telling you?
@@ -107,6 +107,19 @@ When doing user research, I wanted to make sure that I had a variety of perspect
 The first person that I talked to was not a baseball fan. She said that she liked the visualizations for the fielding percentage, batting average, home run, and runs batted in and could easily understand what they were saying in their current form. The total chances, range, and OPS were more confusing, partly because the statistics are a little bit more off the wall. I need to make sure that I can define them in a way that the visualization makes sense. She did suggest making the points different shapes for the different players, which will help once everyone is on the graph. The other comment she made was that having 11 different players to look at seemed like a lot for the scope of this assignment. 
 
 The second person that I talked to is an avid casual fan. She likes to watch games but does not delve deep into the metrics behind the game. She thought that most of the confusion would come from terminology because she didn't know some of the statistics either. She also said that the tables for the awards confused her. I will need to look at how I can provide that same information differently. 
+
+My third friend enjoys watching baseball but doesn't really follow it. She thought it was odd that some players start in the middle of my time window. I need to make sure that I address their playing years up front to clear up this confusion. She also said that I need make my titles more descriptive. 
+
+start later looks weird - state playing years up front
+key on total chances - define time frame, maybe keep it at 10 per 
+Make RANGE clear - fielding range Range 2010 - 2019
+Make titles clear
+
+Batting Average 2010 - 2019
+Games per year?
+OPS Horitonzal Bars? - Career? for just the decade?
+
+
 
 ### Updated Wireframe and Storyboard
 
