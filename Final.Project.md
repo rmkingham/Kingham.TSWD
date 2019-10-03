@@ -108,23 +108,14 @@ The first person that I talked to was not a baseball fan. She said that she like
 
 The second person that I talked to is an avid casual fan. She likes to watch games but does not delve deep into the metrics behind the game. She thought that most of the confusion would come from terminology because she didn't know some of the statistics either. She also said that the tables for the awards confused her. I will need to look at how I can provide that same information differently. 
 
-My third friend enjoys watching baseball but doesn't really follow it. She thought it was odd that some players start in the middle of my time window. I need to make sure that I address their playing years up front to clear up this confusion. She also said that I need make my titles more descriptive. 
-
-start later looks weird - state playing years up front
-key on total chances - define time frame, maybe keep it at 10 per 
-Make RANGE clear - fielding range Range 2010 - 2019
-Make titles clear
-
-Batting Average 2010 - 2019
-Games per year?
-OPS Horitonzal Bars? - Career? for just the decade?
-
-
+My third friend enjoys watching baseball but doesn't really follow it. She thought it was odd that some players start in the middle of my time window. I need to make sure that I address their playing years up front to clear up this confusion. She also said that I need make my titles more descriptive. She was confused by the time frame over which this is all happening, but I think that will be more clear in the final presentation because of the introduction. She suggested that I address how many games each of these players plays in per year. Her final comment was to turn the OPS bar chart so that it is horizontal instead of vertical. I think I will try this and try to narrow the OPS number down to just one to describe the entire decade. 
 
 ### Updated Wireframe and Storyboard
 
 From the feedback that I received, I have decided to reduce the number of people that I am looking at. I was debating whether the players that I'm analyzing needed to be MLB qualifiers for 5 or 6 years anyway and increasing the number to 6 years drops the number of players to be analyzed from 11 to 6. I think this will help in overall understanding of the story without truly degrading from its integrity. In an actual sports analysis, I would want to look at all players regardless of time served, but that is impractical for the scope of this assignment. 
 
 I also will add shapes to my line graphs. I think that associating a player with a certain shape will help make the graphs more readible since no one player is really more important than the others and thus color highlighting isn't as useful. I will still highlight my ultimate top 3 in the final visualizations to help give structure to my story. 
+
+I need to address the issue of playing years for each of my 6 players. I need to make it clear which years' data is being used for this project and how it was narrowed down. I want to be sure that the years where they were injured/new don't hurt their averages but are still represented in the data. 
 
 Finally, I need to show the awards data differently. In my sketching feedback, I was told that the tables weren't super helpful, but I couldn't figure out how to make a chart that showed all the pertinent information. Now, I will try reorganizing the table so that it is grouped by player and not by year. This will allow me to highlight only the 6 players that I'm focusing on instead of everyone who has won an award at third base in the last 10 years. 
