@@ -48,6 +48,7 @@ I also plan to use the data visualization tools that we have discussed in class.
 
 ### Wireframe
 
+![Wireframe of Shorthand for Third Baseman of the Decade](https://rmkingham.github.io/Kingham.TSWD/images/Final Project Wireframe.png)
 
 
 ### Storyboard
