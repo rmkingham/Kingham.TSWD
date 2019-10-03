@@ -48,6 +48,8 @@ I also plan to use the data visualization tools that we have discussed in class.
 
 ### Wireframe
 
+The first wireframe was made using Balsamiq, and lays out how everything will be presented in the final Shorthand version. The following hand drawn wireframes are for each of the data visualizations that will be included in the wireframe. They go in order of how they are laid out in the Balsamiq wireframe. These drawings are designed to 
+
 ![Wireframe of Shorthand for Third Baseman of the Decade](https://rmkingham.github.io/Kingham.TSWD/images/Final Project Wireframe.png)
 ![Wireframe for Defense Data Visualizations](https://rmkingham.github.io/Kingham.TSWD/images/WireframeDefense.jpg)
 ![Wireframe for Offense Data Visualizations](https://rmkingham.github.io/Kingham.TSWD/images/WireframeOffense.jpg)
@@ -56,22 +58,28 @@ I also plan to use the data visualization tools that we have discussed in class.
 ### Personas
 (Click pictures for sources)
 This is Grace.
+
 [![Girl with baseball and bat](https://rmkingham.github.io/Kingham.TSWD/images/Grace.jpg)](https://www.pinterest.com/pin/291467407127890428/?lp=true)
+
 Grace loves baseball and has been following it closely for the last 5 years. She plays third base for her town little league town and loves to watch defensive highlights. Grace is always ready with a statistic or fact to prove her point when talking about the game.
 
 This is Steven.
+
 [![Boy holding his lunch](https://rmkingham.github.io/Kingham.TSWD/images/Steven.png)](https://www.sccpre.cat/show/ixhoJ_boy-lunch-png-clip-art-pinterest-lunches-/)
+
 Steven really likes art and doesn't know much about sports. He wants to care because all of his friends talk about baseball all the time, but he would rather spend his time drawing than watching a game. He also likes numbers because they make sense even when people don't. 
 
 This is Adam.
+
 [![Boy holding his lunch](https://rmkingham.github.io/Kingham.TSWD/images/Adam.png)](https://www.1001freedownloads.com/free-clipart/daddy-standing-01)
+
 Adam is a farmer. He used to pitch for his high school baseball team years ago. He followed his home minor league team until they moved away. He mostly watches the playoffs and hasn't kept up with the current stars.
 
 ### Storyboard
 Reading this project will be different for the different personas. 
-![Storyboard for Grace's Journey](https://rmkingham.github.io/Kingham.TSWD/images/Gracestoryboard.jpg)
-![Storyboard for Steven's Journey](https://rmkingham.github.io/Kingham.TSWD/images/Stevenstoryboard.jpg)
-![Storyboard for Adam's Journey](https://rmkingham.github.io/Kingham.TSWD/images/Adamstoryboard.jpg)
+![Storyboard for Grace's Journey](https://rmkingham.github.io/Kingham.TSWD/images/GraceStoryboard.jpg)
+![Storyboard for Steven's Journey](https://rmkingham.github.io/Kingham.TSWD/images/StevenStoryboard.jpg)
+![Storyboard for Adam's Journey](https://rmkingham.github.io/Kingham.TSWD/images/AdamStoryboard.jpg)
 
 ### Moodboard
 
