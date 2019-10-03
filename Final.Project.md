@@ -57,8 +57,8 @@ The first wireframe was made using Balsamiq, and lays out how everything will be
 
 ### Personas
 
-The following personas were designed to represent three different type of people who might view this presentation. 
-(Click pictures for sources)
+The following personas were designed to represent three different type of people who might view this presentation. People will come to this with varying knowledge and opinions on baseball and third basemen in the game. Each of these three people has a different current involvement with the game. (Click pictures for sources)
+
 This is Grace.
 
 [![Girl with baseball and bat](https://rmkingham.github.io/Kingham.TSWD/images/Grace.jpg)](https://www.pinterest.com/pin/291467407127890428/?lp=true)
@@ -73,19 +73,22 @@ Steven is 15 and lives in Atlanta, Georgia. Steven really likes art and doesn't 
 
 This is Adam.
 
-[![Boy holding his lunch](https://rmkingham.github.io/Kingham.TSWD/images/Adam.png)](https://www.1001freedownloads.com/free-clipart/daddy-standing-01)
+[![Man standing](https://rmkingham.github.io/Kingham.TSWD/images/Adam.png)](https://www.1001freedownloads.com/free-clipart/daddy-standing-01)
 
-Adam is a farmer in Pennsylvania. He used to pitch for his high school baseball team years ago. He followed his home minor league team until they moved away. He mostly watches the playoffs and hasn't kept up with the current stars.
+Adam is a farmer in Montoursville, Pennsylvania. He used to pitch for his high school baseball team years ago with home town hero turned Major Leaguer Mike Mussina. Adam followed Mike's career but has stopped paying attention since Mike retired in 2008. Adam occassionally watches the World Series if he remembers that it's on. He has no idea who the current stars.
 
 ### Storyboard
-Reading this project will be different for the different personas. 
+Reading this project will be different for the different personas. Each of the three people have different interests and investments in the game of baseball. The following storyboards detail the journey's of Grace, Steven, and Adam. 
+
 ![Storyboard for Grace's Journey](https://rmkingham.github.io/Kingham.TSWD/images/GraceStoryboard.jpg)
+
 ![Storyboard for Steven's Journey](https://rmkingham.github.io/Kingham.TSWD/images/StevenStoryboard.jpg)
+
 ![Storyboard for Adam's Journey](https://rmkingham.github.io/Kingham.TSWD/images/AdamStoryboard.jpg)
 
 ### Moodboard
 
-Ideas for Theme
+This presentation's theme will be centered around baseball equipment and the field. There will hopefully be pictures of the players, but I need to make sure that I'm allowed to use them!
 
 Click on pictures for Source:
 [![Baseball on Field](https://rmkingham.github.io/Kingham.TSWD/images/Ball Diamond.jpg)](https://www.inc.com/joe-hyrkin/how-coaching-baseball-made-me-a-better-boss.html)
@@ -94,7 +97,10 @@ Click on pictures for Source:
 
 ### Research Protocol
 
-
+When doing user research, I wanted to make sure that I had a variety of perspectives. I spoke with three people: one who is a baseball fan, one who follows baseball but not that closely, and one who doesn't know anything about the intricacies of the game. In each of the conversations, I asked the following questions.
+ - What do you think each visualization is telling you?
+ - What confused you about each visualization?
+ - 
 
 ### Findings
 Fielding % - Can tell who is 
