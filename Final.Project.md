@@ -52,14 +52,17 @@ I also plan to use the data visualization tools that we have discussed in class.
 
 ### Personas
 
-This is Jake. 
-[![Kid with a baseball hat and bat](https://rmkingham.github.io/Kingham.TSWD/images/Jake.png)](https://www.netclipart.com/isee/obwRb_baseball-posters-for-kids-images-pictures-kids-baseball/)
-He
-
+This is Grace.
 [![Girl with baseball and bat](https://rmkingham.github.io/Kingham.TSWD/images/Grace.jpg)](https://www.pinterest.com/pin/291467407127890428/?lp=true)
+Grace loves baseball and has been following it closely for the last 5 years. She plays third base for her town little league town and loves to watch defensive highlights. Grace is always ready with a statistic or fact to prove her point when talking about the game.
 
-
+This is Steven.
 [![Boy holding his lunch](https://rmkingham.github.io/Kingham.TSWD/images/Steven.png)](https://www.sccpre.cat/show/ixhoJ_boy-lunch-png-clip-art-pinterest-lunches-/)
+Steven really likes art and doesn't know much about sports. He wants to care because all of his friends talk about baseball all the time, but he would rather spend his time drawing than watching a game. He also likes numbers because they make sense even when people don't. 
+
+This is Adam.
+[![Boy holding his lunch](https://rmkingham.github.io/Kingham.TSWD/images/Adam.png)](https://www.1001freedownloads.com/free-clipart/daddy-standing-01)
+Adam is a farmer. He used to pitch for his high school baseball team years ago. He followed his home minor league team until they moved away. He mostly watches the playoffs and hasn't kept up with the current stars.
 
 ### Storyboard
 
