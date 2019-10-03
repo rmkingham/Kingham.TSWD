@@ -57,12 +57,10 @@ I also plan to use the data visualization tools that we have discussed in class.
 
 Ideas for Theme
 
-![Baseball on Field](https://rmkingham.github.io/Kingham.TSWD/images/Ball Diamond.jpg)
-[Source](https://www.inc.com/joe-hyrkin/how-coaching-baseball-made-me-a-better-boss.html)
-![Baseball, Bat, and Glove](https://rmkingham.github.io/Kingham.TSWD/images/Baseball Glove Bat.jpg)
-[Source](https://headsup.boyslife.org/10-interesting-facts-mlb/)
-![Baseball Field](https://rmkingham.github.io/Kingham.TSWD/images/Field.jpg)
-[Source](http://topnotchtrainers.com/staff/team-bios.php)
+Click on pictures for Source:
+[![Baseball on Field](https://rmkingham.github.io/Kingham.TSWD/images/Ball Diamond.jpg)](https://www.inc.com/joe-hyrkin/how-coaching-baseball-made-me-a-better-boss.html)
+[![Baseball, Bat, and Glove](https://rmkingham.github.io/Kingham.TSWD/images/Baseball Glove Bat.jpg)](https://headsup.boyslife.org/10-interesting-facts-mlb/)
+[![Baseball Field](https://rmkingham.github.io/Kingham.TSWD/images/Field.jpg)](http://topnotchtrainers.com/staff/team-bios.php)
 
 ### Personas
 
