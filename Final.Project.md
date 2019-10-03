@@ -100,21 +100,18 @@ Click on pictures for Source:
 When doing user research, I wanted to make sure that I had a variety of perspectives. I spoke with three people: one who is a baseball fan, one who follows baseball but not that closely, and one who doesn't know anything about the intricacies of the game. In each of the conversations, I asked the following questions.
  - What do you think each visualization is telling you?
  - What confused you about each visualization?
- - 
+ - Do you have any suggestions on what I could do better?
 
 ### Findings
-Fielding % - Can tell who is 
-Total Chances - define difference in dot colors
-Range - ???
-Batting Average - Makes Sense
-HR - Good
-RBI - Good
-OPS - ???
 
-Comments - Shape points! to differentiate 
-Reduce people - Qualifiers for the last 6 years? - more in depth discussion at the beginning. 
+The first person that I talked to was not a baseball fan. She said that she liked the visualizations for the fielding percentage, batting average, home run, and runs batted in and could easily understand what they were saying in their current form. The total chances, range, and OPS were more confusing, partly because the statistics are a little bit more off the wall. I need to make sure that I can define them in a way that the visualization makes sense. She did suggest making the points different shapes for the different players, which will help once everyone is on the graph. The other comment she made was that having 11 different players to look at seemed like a lot for the scope of this assignment. 
 
+The second person that I talked to is an avid casual fan. She likes to watch games but does not delve deep into the metrics behind the game. She thought that most of the confusion would come from terminology because she didn't know some of the statistics either. She also said that the tables for the awards confused her. I will need to look at how I can provide that same information differently. 
 
 ### Updated Wireframe and Storyboard
 
+From the feedback that I received, I have decided to reduce the number of people that I am looking at. I was debating whether the players that I'm analyzing needed to be MLB qualifiers for 5 or 6 years anyway and increasing the number to 6 years drops the number of players to be analyzed from 11 to 6. I think this will help in overall understanding of the story without truly degrading from its integrity. In an actual sports analysis, I would want to look at all players regardless of time served, but that is impractical for the scope of this assignment. 
 
+I also will add shapes to my line graphs. I think that associating a player with a certain shape will help make the graphs more readible since no one player is really more important than the others and thus color highlighting isn't as useful. I will still highlight my ultimate top 3 in the final visualizations to help give structure to my story. 
+
+Finally, I need to show the awards data differently. In my sketching feedback, I was told that the tables weren't super helpful, but I couldn't figure out how to make a chart that showed all the pertinent information. Now, I will try reorganizing the table so that it is grouped by player and not by year. This will allow me to highlight only the 6 players that I'm focusing on instead of everyone who has won an award at third base in the last 10 years. 
