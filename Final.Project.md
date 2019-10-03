@@ -1,6 +1,7 @@
 # Final Project: Third Baseman of the Decade (2010-2019)
 
-## Outline
+## Part I
+### Outline
 
 In this project, I will analyze data from Major League Third Basemen over the last 10 years to determine who has been the most effective. In order to be considered, each Third Baseman will have had to qualify for year end awards (by MLB standards) for at least 5 of the 10 years. 
 
@@ -16,7 +17,7 @@ Bringing it all together, I will talk about the top 3 defensive players and top 
 
 The user journey will largely depend on which team they support. Some of the fan favorites at Third Base aren't even going to be included in this discussion because they did not qualify the required 5 years (looking at you, Kris Bryant). Hopefully the average baseball fan will have an overall pleasant journey through the data and learn more about some of the current players at the hot corner. 
 
-## Data 
+### Data 
 
 I pulled my data in from a variety of sources. For hitting and fielding data, I went straight to the [statistics page](http://mlb.mlb.com/stats/sortable.jsp?c_id=mlb#elem=%5Bobject+Object%5D&tab_level=child&click_text=Sortable+Player+hitting&game_type='R'&season=2019&season_type=ANY&league_code='MLB'&sectionType=sp&statType=hitting&page=1&ts=1569466642560) on [MLB.com](https://www.mlb.com). There I sorted by position (3B) for each year and collated the data in an Excel spreadsheet. Major League Baseball does a good job of tracking the hitting and fielding statistics of their players in real time, and it is easy to sort and find what I needed for this project. 
 
@@ -28,7 +29,7 @@ Messy version of the data [here](https://rmkingham.github.io/Kingham.TSWD/MLB 3B
 
 Cleaned version of the data [here](https://rmkingham.github.io/Kingham.TSWD/MLB 3B Data Cleaned 2.0.xlsx).
 
-## Sketches
+### Sketches
 
 When I started sketching for this project, I tried to think of what visualization would be the best for which statistic. I started with defensive statistics and worked my way from the big picture (Fielding Percentage) to the more specific details (Total Chances and Range). I included a discussion of the awards at the bottom. I wasn't sure if I was going to show the awards in a table or visualization form. When talking with a classmate who does not know baseball, I was told that she would prefer a visualization for the awards as well as the statitics. That conversation also reinforced the need for a section explaining what the statistics mean. I am hoping that I can incorporate that seemlessly instead of making it hard to understand what is going on. I started reimagining what the graphs might look like on the second page, where they are completely out of order. 
 
@@ -36,8 +37,39 @@ Then I moved on to offensive statistics. Here, I went with a more historical app
 
 ![Sketch 1](https://rmkingham.github.io/Kingham.TSWD/images/Final%20Project%20Sketch%201.jpg)
 ![Sketch 2](https://rmkingham.github.io/Kingham.TSWD/images/Final%20Project%20Sketch%202.jpg)
-## Method for Presentation
+
+### Method for Presentation
 
 I plan to use Shorthand to present this project. I think that the tools there will best suit my story design and my technological capabilites. I think it will be fun to learn how to use that platform to create a website and import datavisualizations. I also am hoping that I can create sections that lend themselves to a logical flow for this presentaion. I think that I can create a site that tells the story effectively and that will be usful in presenting my final project to class. 
 
 I also plan to use the data visualization tools that we have discussed in class. I will do some of the work in Raw Graphs, but I would like to make at least one data visualization in Tableau to get more comfortable with that as a tool 
+
+## Part II
+
+### Wireframe
+
+
+
+### Storyboard
+[![Baseball on Field](https://rmkingham.github.io/Kingham.TSWD/images/Ball Diamond.jpg)](https://www.inc.com/joe-hyrkin/how-coaching-baseball-made-me-a-better-boss.html)
+
+
+### Moodboard
+
+
+
+### Personas
+
+
+
+### Research Protocol
+
+
+
+### Findings
+
+
+
+### Updated Wireframe and Storyboard
+
+
