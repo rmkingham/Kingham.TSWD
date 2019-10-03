@@ -51,8 +51,12 @@ I also plan to use the data visualization tools that we have discussed in class.
 
 
 ### Storyboard
-[![Baseball on Field](https://rmkingham.github.io/Kingham.TSWD/images/Ball Diamond.jpg)](https://www.inc.com/joe-hyrkin/how-coaching-baseball-made-me-a-better-boss.html)
-
+![Baseball on Field](https://rmkingham.github.io/Kingham.TSWD/images/Ball Diamond.jpg)
+[Source](https://www.inc.com/joe-hyrkin/how-coaching-baseball-made-me-a-better-boss.html)
+![Baseball, Bat, and Glove](https://rmkingham.github.io/Kingham.TSWD/images/Baseball Glove Bat.jpg)
+[Source](https://headsup.boyslife.org/10-interesting-facts-mlb/)
+![Baseball Field](https://rmkingham.github.io/Kingham.TSWD/images/Field.jpg)
+[Source](http://topnotchtrainers.com/staff/team-bios.php)
 
 ### Moodboard
 
