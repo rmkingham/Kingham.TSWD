@@ -49,9 +49,12 @@ I also plan to use the data visualization tools that we have discussed in class.
 ### Wireframe
 
 ![Wireframe of Shorthand for Third Baseman of the Decade](https://rmkingham.github.io/Kingham.TSWD/images/Final Project Wireframe.png)
+![Wireframe for Defense Data Visualizations](https://rmkingham.github.io/Kingham.TSWD/images/WireframeDefense.jpg)
+![Wireframe for Offense Data Visualizations](https://rmkingham.github.io/Kingham.TSWD/images/WireframeOffense.jpg)
+![Wireframe for Offense Data Visualizations](https://rmkingham.github.io/Kingham.TSWD/images/WireframeOffense2.jpg)
 
 ### Personas
-
+(Click pictures for sources)
 This is Grace.
 [![Girl with baseball and bat](https://rmkingham.github.io/Kingham.TSWD/images/Grace.jpg)](https://www.pinterest.com/pin/291467407127890428/?lp=true)
 Grace loves baseball and has been following it closely for the last 5 years. She plays third base for her town little league town and loves to watch defensive highlights. Grace is always ready with a statistic or fact to prove her point when talking about the game.
@@ -65,7 +68,10 @@ This is Adam.
 Adam is a farmer. He used to pitch for his high school baseball team years ago. He followed his home minor league team until they moved away. He mostly watches the playoffs and hasn't kept up with the current stars.
 
 ### Storyboard
-
+Reading this project will be different for the different personas. 
+![Storyboard for Grace's Journey](https://rmkingham.github.io/Kingham.TSWD/images/Gracestoryboard.jpg)
+![Storyboard for Steven's Journey](https://rmkingham.github.io/Kingham.TSWD/images/Stevenstoryboard.jpg)
+![Storyboard for Adam's Journey](https://rmkingham.github.io/Kingham.TSWD/images/Adamstoryboard.jpg)
 
 ### Moodboard
 
@@ -81,7 +87,16 @@ Click on pictures for Source:
 
 
 ### Findings
+Fielding % - Can tell who is 
+Total Chances - define difference in dot colors
+Range - ???
+Batting Average - Makes Sense
+HR - Good
+RBI - Good
+OPS - ???
 
+Comments - Shape points! to differentiate 
+Reduce people - Qualifiers for the last 6 years? - more in depth discussion at the beginning. 
 
 
 ### Updated Wireframe and Storyboard
