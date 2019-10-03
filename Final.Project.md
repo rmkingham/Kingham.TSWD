@@ -50,6 +50,16 @@ I also plan to use the data visualization tools that we have discussed in class.
 
 ![Wireframe of Shorthand for Third Baseman of the Decade](https://rmkingham.github.io/Kingham.TSWD/images/Final Project Wireframe.png)
 
+### Personas
+
+This is Jake. 
+[![Kid with a baseball hat and bat](https://rmkingham.github.io/Kingham.TSWD/images/Jake.png)](https://www.netclipart.com/isee/obwRb_baseball-posters-for-kids-images-pictures-kids-baseball/)
+He
+
+[![Girl with baseball and bat](https://rmkingham.github.io/Kingham.TSWD/images/Grace.jpg)](https://www.pinterest.com/pin/291467407127890428/?lp=true)
+
+
+[![Boy holding his lunch](https://rmkingham.github.io/Kingham.TSWD/images/Steven.png)](https://www.sccpre.cat/show/ixhoJ_boy-lunch-png-clip-art-pinterest-lunches-/)
 
 ### Storyboard
 
@@ -62,10 +72,6 @@ Click on pictures for Source:
 [![Baseball on Field](https://rmkingham.github.io/Kingham.TSWD/images/Ball Diamond.jpg)](https://www.inc.com/joe-hyrkin/how-coaching-baseball-made-me-a-better-boss.html)
 [![Baseball, Bat, and Glove](https://rmkingham.github.io/Kingham.TSWD/images/Baseball Glove Bat.jpg)](https://headsup.boyslife.org/10-interesting-facts-mlb/)
 [![Baseball Field](https://rmkingham.github.io/Kingham.TSWD/images/Field.jpg)](http://topnotchtrainers.com/staff/team-bios.php)
-
-### Personas
-
-
 
 ### Research Protocol
 
