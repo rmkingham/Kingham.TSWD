@@ -119,3 +119,7 @@ I also will add shapes to my line graphs. I think that associating a player with
 I need to address the issue of playing years for each of my 6 players. I need to make it clear which years' data is being used for this project and how it was narrowed down. I want to be sure that the years where they were injured/new don't hurt their averages but are still represented in the data. 
 
 Finally, I need to show the awards data differently. In my sketching feedback, I was told that the tables weren't super helpful, but I couldn't figure out how to make a chart that showed all the pertinent information. Now, I will try reorganizing the table so that it is grouped by player and not by year. This will allow me to highlight only the 6 players that I'm focusing on instead of everyone who has won an award at third base in the last 10 years. 
+
+### Call to Action
+
+During the discussion in class, I solidified the call to action. I will call for people to join the conversation online with their opinions using the hashtag #3Bdebate.
