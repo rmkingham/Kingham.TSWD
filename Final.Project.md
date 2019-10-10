@@ -123,3 +123,7 @@ Finally, I need to show the awards data differently. In my sketching feedback, I
 ### Call to Action
 
 During the discussion in class, I solidified the call to action. I will call for people to join the conversation online with their opinions using the hashtag #3Bdebate.
+
+## Part III
+
+[Final Project Shorthand](https://carnegiemellon.shorthandstories.com/kingham/index.html)
