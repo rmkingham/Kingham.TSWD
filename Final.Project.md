@@ -126,4 +126,15 @@ During the discussion in class, I solidified the call to action. I will call for
 
 ## Part III
 
-[Final Project Shorthand](https://carnegiemellon.shorthandstories.com/kingham/index.html)
+### Intended Audience
+
+My presenation is intented for people who are interested in baseball but who are not necessarily knowledgable about all the inner workings of the game. I made sure to define all of the baseball lingo that I used both with the technical definition and an explanation of what it actually means. I explained my analysis of each visualization so that other fans could see what I was thinking. I also qualitfied the rating system so that my readers could see a qualitative way I reached my final answer. I thought about the personas listed above when writing my explanations with the hope that the project would be accessible to a wide audience. 
+
+### Project Journey
+A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+
+
+
+### [Final Project Shorthand](https://carnegiemellon.shorthandstories.com/kingham/index.html)
+
+![Nolan Arenado high-fiving teammates in the dugout](<a id='eMg5tlctTgVhDCl4tMkUEQ' class='gie-single' href='http://www.gettyimages.com/detail/533125558' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'eMg5tlctTgVhDCl4tMkUEQ',sig:'GF5kV7H96ZhBT4FgBU4x3Yda8fU-XvKXbjtmciACztA=',w:'594px',h:'419px',items:'533125558',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>)
